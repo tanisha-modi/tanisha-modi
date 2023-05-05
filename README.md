@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanisha-modi&label=Profile%20views&color=0e75b6&style=flat" alt="tanisha-modi" /> </p>
 
-- 💬 Ask me about **Java,html,css,JavaScrip**
+- 💬 Ask me about **Java,html,css,JavaScript**
 
 - 📫 How to reach me **tanishamodi12@gmail.com**
 
