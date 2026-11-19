@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java,html,css,JavaScript,React,Node**
 
-- 📫 How to reach me **tanishamodi12@gmail.com**
+- 📫 How to reach me **tanisha.backup12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
