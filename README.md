@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanisha Modi </h1>
-<h3 align="center">A passionate Java & Web developer</h3>
+<h3 align="center"> GenAI Full Stack Developer </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tanisha-modi&label=Profile%20views&color=0e75b6&style=flat" alt="tanisha-modi" />
